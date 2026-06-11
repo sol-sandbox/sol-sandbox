@@ -1,0 +1,13 @@
+# Keep public repo clean
+.env
+.env.*
+!.env.example
+node_modules/
+.next/
+__pycache__/
+*.pyc
+*.sqlite3
+*.db
+*.pkl
+data/
+.DS_Store
